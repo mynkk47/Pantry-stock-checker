@@ -68,3 +68,8 @@
 
 \- Console I/O
 
+
+## Flow of Code
+
+![Flow of Code](flow%20of%20code%20initially%20v1.png)
+
